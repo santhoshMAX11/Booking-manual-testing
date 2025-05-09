@@ -1,2 +1,2 @@
 # Booking-manual-testing
-Manual testing project using JIRA, Agile, GitHub, Qase
+Manual testing project using JIRA, Agile, GitHub,Git bash, Qase
