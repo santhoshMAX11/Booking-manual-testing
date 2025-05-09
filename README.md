@@ -23,7 +23,6 @@ This project involves manual testing of a web-based online bookstore. The goal i
 - Maintained project structure, test case reports, and bug reports in GitHub using Git Bash.
 
 ## 📁 Folder Structure
-## 📁 Folder Structure
 
 - `AgileDocuments/` – Sprint plans, Epics, User stories
 - `BugReports/` – Screenshots and descriptions of bugs
