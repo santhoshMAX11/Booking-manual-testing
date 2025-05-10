@@ -1,0 +1,10 @@
+What went well:
+- Clear requirements helped faster test design.
+- Easy communication with the dev.
+
+What can be improved:
+- Start bug logging earlier in Sprint 1.
+
+Action Items:
+- Set JIRA access before Sprint start.
+- Review test cases daily in future sprints.

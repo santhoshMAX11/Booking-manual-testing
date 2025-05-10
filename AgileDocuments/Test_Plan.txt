@@ -1,0 +1,11 @@
+Test Types: Functional, UI, Regression
+Entry Criteria:
+- Requirements finalized
+- Test cases approved
+
+Exit Criteria:
+- All critical test cases executed
+- Major bugs resolved
+
+Test Environment: Chrome, Windows 10
+Test Tools: Qase.io, JIRA

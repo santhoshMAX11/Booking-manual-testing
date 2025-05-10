@@ -1,0 +1,17 @@
+1. User registration 
+- Should allow new users to register with email and password.
+- Error shown if email already exists.
+
+2. Login
+- Valid email/password should allow access.
+- Invalid details show error.
+
+3. Book search
+- users should search by title, author or category.
+
+4. Cart and Checkout
+- Add/remote books from cart.
+- Proceed to checkout with billing info.
+
+5. Order History
+- Users should view past  orders with status.

@@ -1,0 +1,13 @@
+Sprint 1:
+- Write test cases for Login & Signup
+- Execute functional tests for search
+- Log bugs in Jira
+
+Sprint 2:
+- Test Cart and Checkout
+- Validate Order History
+- Regression testing
+
+Sprint 3:
+- Re-test fixed bugs
+- Final test report and project closure

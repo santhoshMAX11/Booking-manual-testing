@@ -1,0 +1,17 @@
+Project Name: Bookstore Web App
+Objective: Test core features of an online bookstore.
+Scope:
+- User Login & Signup
+- Book Search, Filters
+- Cart, Checkout, Order History
+
+Team:
+- QA: Santhosh
+- Developer: Assumed
+
+Timeline: 3 Weeks
+Week 1 - Requirement analysis, test planning
+Week 2 - Test execution, bug reporting
+Week 3 - Regression testing, documentation
+
+Tools: JIRA, Qase.io, GitHub, Git bash
