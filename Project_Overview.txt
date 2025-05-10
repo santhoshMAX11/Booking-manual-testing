@@ -13,6 +13,7 @@ Tools Used:
 - JIRA (for task tracking and bug reporting)
 - Qase.io (for writing and executing test cases)
 - GitHub (to upload all project files)
+- Git Bash: For Git operations (init, add, commit, push)
 - Agile (for planning and execution)
 
 Methodology:
