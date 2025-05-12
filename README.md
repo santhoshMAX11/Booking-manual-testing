@@ -30,3 +30,8 @@ This project involves manual testing of a web-based online bookstore. The goal i
 - `Project_Overview.txt` – Summary of the application and test coverage
 - `.gitignore` – Files/folders to be ignored by Git
 - `README.md` – Project overview and documentation
+
+- ## 📄 Test Artifacts
+
+- Bookstore.testcases.xlsx  – Contains test cases for Login, Signup, Search, Cart, Checkout
+
