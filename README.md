@@ -7,7 +7,7 @@ This project involves manual testing of a web-based online bookstore. The goal i
 - **User Login & Signup**
 - **Book Search & Filters**
 - **Cart & Checkout**
-- **Order History**
+- **Order**
 
 ## 🛠️ Tools Used
 - **JIRA**: For bug tracking and task management.
@@ -33,5 +33,5 @@ This project involves manual testing of a web-based online bookstore. The goal i
 
 - ## 📄 Test Artifacts
 
-- Bookstore.testcases.xlsx  – Contains test cases for Login, Signup, Search, Cart, Checkout
+- Bookstore.testcases.xlsx  – Contains test cases for Login, Signup, Search, Cart, Order
 
