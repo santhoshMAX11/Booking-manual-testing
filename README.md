@@ -7,7 +7,7 @@ This project involves manual testing of a web-based online bookstore. The goal i
 - **User Login & Signup**
 - **Book Search & Filters**
 - **Cart & Checkout**
-- **Order History**
+- **Order**
 
 ## 🛠️ Tools Used
 - **JIRA**: For bug tracking and task management.
@@ -25,7 +25,7 @@ This project involves manual testing of a web-based online bookstore. The goal i
 ## 📁 Folder Structure
 
 - `AgileDocuments/` – Sprint plans, Epics, User stories
-- `BugReports/` – Screenshots and descriptions of bugs
+- `BugReports/` – Reports links
 - `Screenshots/` – Evidence from test case executions
 - `Project_Overview.txt` – Summary of the application and test coverage
 - `.gitignore` – Files/folders to be ignored by Git
@@ -33,5 +33,5 @@ This project involves manual testing of a web-based online bookstore. The goal i
 
 - ## 📄 Test Artifacts
 
-- Bookstore.testcases.xlsx  – Contains test cases for Login, Signup, Search, Cart, Checkout
+- Bookstore.testcases.xlsx  – Contains test cases for Login, Signup, Search, Cart, Order
 
